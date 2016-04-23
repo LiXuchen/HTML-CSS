@@ -1,5 +1,4 @@
 /* Reset */
-.menu,
 .menu ul,
 .menu li,
 .menu a {
@@ -10,7 +9,11 @@
 }
 
 /* Menu */
-.menu {	
+.menu {
+    margin: 0 auto;
+    padding: 0;
+	border: none;
+	outline: none;
 	height: 40px;
 	width: 505px;
 
