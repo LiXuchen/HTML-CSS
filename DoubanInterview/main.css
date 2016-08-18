@@ -1,0 +1,20 @@
+body{
+    font: 15px arial;
+    margin-top: 40px;
+}
+
+.big{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+
+.item .pic{
+    float: left;
+    margin-right: 50px;
+}
+
+.item .content{
+    overflow: hidden;
+    display: block;
+}
